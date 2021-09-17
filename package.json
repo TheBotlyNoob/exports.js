@@ -1,0 +1,21 @@
+{
+  "name": "exports.js",
+  "version": "0.0.1",
+  "description": "",
+  "private": false,
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheBotlyNoob/exports.js.git"
+  },
+  "keywords": [],
+  "author": "Jay Jackson",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
